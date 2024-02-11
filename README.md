@@ -1,4 +1,4 @@
-# al-id
+# al-id-AxeLauncher ID
 
 1. **Create `id_manager.json`:**
    - Create a new file named `id_manager.json`.
