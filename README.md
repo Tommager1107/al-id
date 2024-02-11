@@ -22,5 +22,5 @@
          "id.file": "id_manager.json"
      }
      ```
-     # Your IP adress is not connected to any server but if you dont believe you can you **DEFAULT-AL-IP** that is **dip1.axe-launcher.free.nf or dip2.axe-launcher.free.nf**
+     # Your IP adress is not connected to any server but if you dont believe you can use **DEFAULT-AL-IP** that is **dip1.axe-launcher.free.nf or dip2.axe-launcher.free.nf**
 
