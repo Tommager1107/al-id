@@ -10,6 +10,7 @@
      }
      ```
    - Replace `"YOUR_UNIQUE_ID"` with a unique ID for your Axe Launcher.
+   - Generate `"YOUR_UNIQUE_ID"` here: https://axe-launcher.free.nf/generator
    - Replace `"YOUR_COMPUTER_IP_ADDRESS"` with the IP address of your computer.
 
 2. **Create `alid-data.aldat`:**
@@ -23,4 +24,5 @@
      }
      ```
      # Your IP adress is not connected to any server but if you dont believe you can use **DEFAULT-AL-IP** that is **dip1.axe-launcher.free.nf or dip2.axe-launcher.free.nf**
+     
 
